@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Genius: React.js | next.js | Typescript | shadcn-ui | Tailwind css
+
+This project is a webapp with power of AI to create images,code,chat completion etc.
 
 ## Getting Started
 
